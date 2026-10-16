@@ -27,3 +27,4 @@ Projects will be added as I progress through the learning roadmap.
 ## Practice approach
 
 I practise commands, document what I learn, troubleshoot errors, and track my work with Git commits.
+Day 6: Practised GitHub push and pull.
